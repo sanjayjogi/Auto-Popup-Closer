@@ -30,7 +30,7 @@
 ### Option 2: Add Packed Version to Chrome
 
 Download the packed `.crx` version here:  
-[**Download Auto Popup Closer**](https://example.com/auto-popup-closer.crx)  
+[**Download Auto Popup Closer**](https://github.com/sanjayjogi/Auto-Popup-Closer/releases/download/v1.0/Auto-Popup-Closer.crx)  
 
 1. Drag and drop the `.crx` file into `chrome://extensions/`.  
 2. Confirm to add it to Chrome.  
